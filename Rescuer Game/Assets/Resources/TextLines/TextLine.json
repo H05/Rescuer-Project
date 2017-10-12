@@ -1,0 +1,76 @@
+﻿{
+  "TextLines": [
+    {
+      "Level_ID": 0,
+
+      "Line1": "Random Text",
+      "Line2": "Random2",
+      "Line3": "Random3",
+      "Line4": "Random4",
+      "Line5": "Random5",
+      "Line6": "Random6",
+      "Line7": "Random8"
+
+    },
+
+    {
+      "Level_ID": 1,
+
+      "Line1": "",
+      "Line2": "",
+      "Line3": "",
+      "Line4": "",
+      "Line5": "",
+      "Line6": "",
+      "Line7": ""
+    },
+
+    {
+      "Level_ID": 2,
+
+      "Line1": "",
+      "Line2": "",
+      "Line3": "",
+      "Line4": "",
+      "Line5": "",
+      "Line6": "",
+      "Line7": ""
+    },
+
+    {
+      "Level_ID": 3,
+
+      "Line1": "",
+      "Line2": "",
+      "Line3": "",
+      "Line4": "",
+      "Line5": "",
+      "Line6": "",
+      "Line7": ""
+    },
+
+    {
+      "Level_ID": 4,
+
+      "Line1": "",
+      "Line2": "",
+      "Line3": "",
+      "Line4": "",
+      "Line5": "",
+      "Line6": "",
+      "Line7": ""
+    },
+
+    {
+      "Level_ID": 5,
+
+      "Line1": "",
+      "Line2": "",
+      "Line3": "",
+      "Line4": "",
+      "Line5": "",
+      "Line6": "",
+      "Line7": ""
+    }
+  ]
+}

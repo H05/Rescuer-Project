@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/SCENES/Level Editor/Experimental.unity
+  isLoaded: 1
+  isActive: 1
